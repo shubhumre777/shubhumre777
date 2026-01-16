@@ -74,12 +74,6 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 - Feature engineering  
 - Model evaluation  
 
-**GenAI Engineer Track**
-- LLMs  
-- Prompt engineering  
-- RAG systems  
-- AI agents  
-
 **Research Track**
 - Computer vision  
 - Dataset engineering  
@@ -89,11 +83,48 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 ## 🚀 Deployed Applications (Streamlit)
 
-All my live AI apps:
+<p align="center">
 
-🔗 **https://share.streamlit.io/**
+<!-- Spam Email Detection -->
+<a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam-email-detection&theme=tokyonight" />
+</a>
 
-(Projects are hosted and continuously improved)
+<br/>
+
+<img src="https://img.shields.io/badge/📧%20Spam%20Email%20Detection-AI%20NLP%20System-00f7ff?style=for-the-badge&labelColor=0a0a0a"/>
+
+</p>
+
+<p align="center">
+
+<!-- Aadhaar Behavior Intelligence -->
+<a href="https://aadhaar-behavior-intelligence-naw9fuv9epvq8uwcv4ybhn.streamlit.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🆔%20Aadhaar%20Behavior%20Intelligence-User%20Analytics%20AI-8a2be2?style=for-the-badge&labelColor=0a0a0a"/>
+
+</p>
+
+<p align="center">
+
+<!-- GSOC ML Projects -->
+<a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=gsoc-ml-projects&theme=tokyonight" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧠%20GSoC%20ML%20Projects-Research%20%26%20Models-ff00ff?style=for-the-badge&labelColor=0a0a0a"/>
+
+</p>
+
+<p align="center">
+✨ Real-world AI systems • NLP • Behavior Intelligence • Research-grade ML pipelines
+</p>
 
 ---
 
