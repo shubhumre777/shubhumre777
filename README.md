@@ -130,7 +130,8 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 ## 📊 3D GitHub Metrics Dashboard
 
-![Metrics](https://metrics.lecoq.io/shubhumre777?template=classic&config.timezone=auto&base.header=1&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=12&languages.colors=github&languages.threshold=0%25&isocalendar=1&isocalendar.duration=half-year&pagespeed=1&pagespeed.url=https://github.com&followup=1&achievements=1&achievements.threshold=C&notable=1&repositories=1&stars=1&discussions=1)
+![Metrics](./github-metrics.svg)
+
 
 ---
 
