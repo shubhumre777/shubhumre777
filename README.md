@@ -128,13 +128,6 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 ---
 
-## 📊 3D GitHub Metrics Dashboard
-
-![Metrics](./github-metrics.svg)
-
-
----
-
 ## 📈 GitHub Performance
 
 <p align="center">
