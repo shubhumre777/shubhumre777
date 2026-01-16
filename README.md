@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year undergraduate student specializing in Artificial Intelligence and Machine Learning. I aim to actively contribute to open-source projects, strengthen my existing technical skills, acquire new industry-relevant competencies, and build a strong professional profile through real-world collaboration.
+I am an undergraduate student specializing in Artificial Intelligence and Machine Learning. I aim to actively contribute to open-source projects, strengthen my existing technical skills, acquire new industry-relevant competencies, and build a strong professional profile through real-world collaboration.
 
 
 ## 🌐 Socials:
