@@ -1,6 +1,6 @@
 <!-- ===================== 3D CYBER BANNER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ff,100:8a2be2&text=Shubhum%20Umre&fontAlignY=35&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20GenAI%20Engineer&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ff,100:8a2be2&text=SHUBH%20UMRE&fontAlignY=35&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20GenAI%20Engineer&descAlignY=60" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Undergraduate;Open+Source+Contributor;Building+Real-World+Intelligent+Systems;Computer+Vision+%7C+GenAI+%7C+Data+Science" />
