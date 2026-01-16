@@ -181,15 +181,3 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-## 👀 Profile Visits
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=shubhumre777&icon=0&color=12" />
-</p>
-
----
-
-<p align="center">
-⚡ AI Engineer in training • Open-source contributor • Recruiter-ready profile • Modern cyber design
-</p>
