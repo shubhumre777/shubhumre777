@@ -12,7 +12,3 @@ jobs:
           token: ${{ secrets.GIT_TOKEN }}
           user: shubhumre777
           template: classic
-          languages: yes
-          isocalendar: yes
-          achievements: yes
-          repositories: yes
