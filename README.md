@@ -87,7 +87,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 <!-- Spam Email Detection -->
 <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam-email-detection&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight" />
 </a>
 
 <br/>
@@ -99,7 +99,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 <p align="center">
 
 <!-- Aadhaar Behavior Intelligence -->
-<a href="https://aadhaar-behavior-intelligence-naw9fuv9epvq8uwcv4ybhn.streamlit.app" target="_blank">
+<a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight" />
 </a>
 
