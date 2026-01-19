@@ -160,22 +160,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=shubhumre777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-## 🤖 AI Project Showcase (Auto fills when you pin repos)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</p>
-
----
-
-## ⏱ Live Coding Activity (WakaTime)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhumre777&theme=tokyonight&hide_border=true" />
-</p>
+>
 
 ---
 
