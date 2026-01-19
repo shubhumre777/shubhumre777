@@ -148,6 +148,9 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shubhumre777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shubhumre777)
+
 </p>
 
 ---
