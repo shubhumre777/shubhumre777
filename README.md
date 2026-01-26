@@ -149,8 +149,6 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shubhumre777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shubhumre777)
-
 </p>
 
 ---
@@ -164,7 +162,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 ---
 
-## 🐍 Contribution Activity (3D Animated)
+## 🐍 Contribution Activity 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
