@@ -87,7 +87,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 <!-- Spam Email Detection -->
 <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight&cache_seconds=86400&v=1" />
 </a>
 
 <br/>
@@ -100,7 +100,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 <!-- Aadhaar Behavior Intelligence -->
 <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight&cache_seconds=86400&v=2" />
 </a>
 
 <br/>
@@ -113,7 +113,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 <!-- GSOC ML Projects -->
 <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight&cache_seconds=86400&v=3" />
 </a>
 
 <br/>
@@ -127,6 +127,7 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 </p>
 
 ---
+
 
 ## 📈 GitHub Performance
 
