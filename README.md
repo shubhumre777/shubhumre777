@@ -83,50 +83,31 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 
 ## 🚀 Deployed Applications (Streamlit)
 
-<p align="center">
+### 📧 Spam Email Detection
+[![Spam Email Detection](https://stats.dooboo.io/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight)](https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app)
 
-<!-- Spam Email Detection -->
-<a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight&cache_seconds=86400&v=1" />
-</a>
+![Badge](https://img.shields.io/badge/AI%20NLP%20System-Spam%20Detection-00f7ff?style=for-the-badge)
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/📧%20Spam%20Email%20Detection-AI%20NLP%20System-00f7ff?style=for-the-badge&labelColor=0a0a0a"/>
+### 🆔 Aadhaar Behavior Intelligence
+[![Aadhaar Behavior Intelligence](https://stats.dooboo.io/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight)](https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/)
 
-</p>
+![Badge](https://img.shields.io/badge/User%20Analytics-AI%20System-8a2be2?style=for-the-badge)
 
-<p align="center">
+---
 
-<!-- Aadhaar Behavior Intelligence -->
-<a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight&cache_seconds=86400&v=2" />
-</a>
+### 🧠 GSoC ML Projects (Credit Card Fraud Detection)
+[![Credit Card Fraud Detection](https://stats.dooboo.io/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight)](https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/)
 
-<br/>
+![Badge](https://img.shields.io/badge/Research%20%26%20Models-ML%20Pipelines-ff00ff?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/🆔%20Aadhaar%20Behavior%20Intelligence-User%20Analytics%20AI-8a2be2?style=for-the-badge&labelColor=0a0a0a"/>
-
-</p>
-
-<p align="center">
-
-<!-- GSOC ML Projects -->
-<a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight&cache_seconds=86400&v=3" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🧠%20GSoC%20ML%20Projects-Research%20%26%20Models-ff00ff?style=for-the-badge&labelColor=0a0a0a"/>
-
-</p>
+---
 
 <p align="center">
 ✨ Real-world AI systems • NLP • Behavior Intelligence • Research-grade ML pipelines
 </p>
 
----
 
 
 ## 📈 GitHub Performance
