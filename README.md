@@ -112,8 +112,8 @@ My goal is to grow as an industry-ready AI engineer through hands-on projects an
 <p align="center">
 
 <!-- GSOC ML Projects -->
-<a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=gsoc-ml-projects&theme=tokyonight" />
+<a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight" />
 </a>
 
 <br/>
