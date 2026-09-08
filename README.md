@@ -108,16 +108,30 @@
 
 <br>
 
-<!-- ===================== LIVE TELEMETRY ===================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Telemetry" width="40" /> <code>System Telemetry & Metrics</code></h2>
+<!-- ===================== LINKEDIN PROFESSIONAL NETWORK ===================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" /> <code>Professional Network</code></h2>
 
-<!-- Live Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhumre777&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true&title_color=00FF9D" alt="Telemetry Activity Graph" />
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Briefcase.png" alt="Briefcase" width="70" /><br>
+      <h3 align="center">Let's build the future of AI together.</h3>
+      <p align="center"><i>I am always open to discussing GenAI research, Machine Learning opportunities, and open-source collaborations.</i></p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/shubh-umre-7181432b9/">
+          <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================== GITHUB METRICS & SNAKE ===================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="40" /> <code>GitHub Matrix</code></h2>
 
 <!-- Animated Contribution Snake -->
-<h2 align="center">🟩 <code>Activity Matrix</code></h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
