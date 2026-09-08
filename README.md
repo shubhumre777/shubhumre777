@@ -86,12 +86,12 @@
   <tr>
     <td align="center">
       <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
       </a>
     </td>
     <td align="center">
       <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -99,13 +99,11 @@
     <td align="center" colspan="2">
       <br>
       <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
       </a>
     </td>
   </tr>
 </table>
-
-<br>
 
 <!-- ===================== TELEMETRY & STATS (Ref: Image 2 HUD) ===================== -->
 <h2 align="center">📊 System Telemetry & Metrics</h2>
