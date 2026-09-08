@@ -83,11 +83,11 @@
 <h2 align="center">🚀 Production Applications</h2>
 <p align="center">
   <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
-    <img src="https://img.shields.io/badge/Live_App-Spam_Detection_System-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+    <img src="https://img.shields.io/badge/Live_App-Spam_Email_Detection_System-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
   </a>
   <br><br>
   <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_App-Behavior_Intelligence-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+    <img src="https://img.shields.io/badge/Live_App-Adhar_Behavior_Intelligence-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
   </a>
   <br><br>
   <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
