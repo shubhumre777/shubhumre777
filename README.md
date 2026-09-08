@@ -81,29 +81,19 @@
 
 <!-- ===================== PINNED APPS GRID ===================== -->
 <h2 align="center">🚀 Production Applications</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=spam_email_detection&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=aadhaar-behavior-intelligence&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhumre777&repo=credit_card_fraud_detect&theme=tokyonight&border_color=00ff9d&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
+    <img src="https://img.shields.io/badge/Live_App-Spam_Detection_System-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+  <br><br>
+  <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_App-Behavior_Intelligence-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+  <br><br>
+  <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_App-Credit_Card_Fraud_Detect-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+</p>
 
 <!-- ===================== TELEMETRY & STATS (Ref: Image 2 HUD) ===================== -->
 <h2 align="center">📊 System Telemetry & Metrics</h2>
