@@ -1,33 +1,49 @@
-<!-- ===================== MINIMAL HUD HEADER ===================== -->
+<!-- ===================== 3D ANIMATED HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0a0f18,50:0e1726,100:00ff9d&text=SHUBH%20UMRE&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20GenAI%20Engineer&descAlignY=65&descSize=18" width="100%" />
+  <!-- Floating 3D AI Robot -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="3D Robot" width="120" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0f18,50:0e1726,100:00ff9d&text=SHUBH%20UMRE&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20GenAI%20Engineer&descAlignY=65&descSize=18&animation=twinkling" width="100%" />
 
   <br>
 
-  <!-- Navigation / Social Pills (Ref: Image 1) -->
+  <!-- Navigation Pills -->
   <a href="https://github.com/shubhumre777"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shubh-umre-7181432b9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/ShubhUmre74847"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:umreshubh6@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  
   <br><br>
 
-  <!-- Typing Subheader -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3C+Hi+there+%F0%9F%91%8B%2C+devs+%2F%3E;Building+Scalable+GenAI+%26+Deep+Learning+Pipelines;AI+%26+ML+Undergraduate+%7C+Open+Source+Contributor" alt="Typing Header" />
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3C+Hi+there+%F0%9F%91%8B%2C+devs+%2F%3E;Building+Scalable+GenAI+%26+Deep+Learning+Pipelines;AI+%26+ML+Undergraduate+%7C+Open+Source+Contributor" alt="Typing Header" />
 </div>
 
-<br>
-
-<!-- ===================== SHORT BIO ===================== -->
+<!-- Animated Glowing Line -->
 <p align="center">
-  Undergraduate specializing in <b>Artificial Intelligence & Machine Learning</b>. <br>
-  Focused on generative agent workflows, deep sequential networks, and production-grade Computer Vision systems.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+<!-- ===================== GEN AI TERMINAL BIO ===================== -->
+<table align="center" style="border: none;">
+  <tr>
+    <td width="70%" valign="center">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Brain.png" alt="Brain" width="40" /> <code>System.Initialize("Bio")</code></h2>
+      <p>
+        Undergraduate specializing in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
+        Currently focused on engineering <b>generative agent workflows</b>, training <b>deep sequential networks</b>, and deploying <b>production-grade Computer Vision</b> systems for real-world impact.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <!-- Animated Neural Network / AI GIF -->
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-data-visualization.gif" alt="AI Neural Net" width="250" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<!-- ===================== TECH STACK (MINIMAL & CATEGORIZED) ===================== -->
-<h2 align="center">🛠️ Tech Stack & Neural Architectures</h2>
+<!-- ===================== 3D TECH STACK ===================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PC" width="40" /> <code>Tech Stack & Neural Architectures</code></h2>
 
 <table align="center" style="border: none;">
   <tr>
@@ -56,68 +72,52 @@
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>☁️ Cloud & Tools:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
 
+<!-- 3D Glass Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,git,github,gcp,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,git,github,gcp,vercel,heroku&theme=dark" />
+  </a>
+</p>
+
+<!-- Animated Glowing Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<!-- ===================== PROJECTS & DEPLOYMENTS ===================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" /> <code>Production Applications</code></h2>
+
+<!-- Fully Static High-Tech Badges (No Vercel API limits!) -->
+<p align="center">
+  <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Spam_Detection_NLP-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+  <br><br>
+  <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Behavior_Intelligence_AI-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+  <br><br>
+  <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Credit_Card_Fraud_Detect-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
   </a>
 </p>
 
 <br>
 
-<!-- ===================== PINNED APPS GRID ===================== -->
-<h2 align="center">🚀 Production Applications</h2>
-<p align="center">
-  <a href="https://spamemaildetection-a5ve47mcinjnq5vnsuakel.streamlit.app">
-    <img src="https://img.shields.io/badge/Live_App-Spam_Email_Detection_System-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
-  </a>
-  <br><br>
-  <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_App-Adhar_Behavior_Intelligence-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
-  </a>
-  <br><br>
-  <a href="https://gsoc-ml-projects-9slwsy83v3bjdmzpykinja.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_App-Credit_Card_Fraud_Detect-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
-  </a>
-</p>
+<!-- ===================== LIVE TELEMETRY ===================== -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Telemetry" width="40" /> <code>System Telemetry & Metrics</code></h2>
 
-<!-- ===================== TELEMETRY & STATS (Ref: Image 2 HUD) ===================== -->
-<h2 align="center">📊 System Telemetry & Metrics</h2>
-
+<!-- Live Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhumre777&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true&title_color=00FF9D" alt="Telemetry Activity Graph" />
 </p>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=shubhumre777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" alt="Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhumre777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D" alt="Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-<h2 align="center">🟩 Activity Matrix</h2>
-
+<!-- Animated Contribution Snake -->
+<h2 align="center">🟩 <code>Activity Matrix</code></h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -130,7 +130,6 @@
   <img src="https://komarev.com/ghpvc/?username=shubhumre777&style=flat-square&color=00FF9D&label=METRIC_VIEWS" alt="Telemetry Views" />
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  With 💚 from India
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Space Invader" width="30" />
 </p>
