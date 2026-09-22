@@ -34,7 +34,7 @@
       </p>
     </td>
     <td width="30%" align="center">
-      <!-- Animated Neural Network / AI GIF -->
+      <!-- Animated Neural Network -->
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-data-visualization.gif" alt="AI Neural Net" width="250" style="border-radius: 15px;" />
     </td>
   </tr>
@@ -42,7 +42,7 @@
 
 <br>
 
-<!-- ===================== 3D TECH STACK ===================== -->
+<!-- TECH STACK -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PC" width="40" /> <code>Tech Stack & Neural Architectures</code></h2>
 
 <table align="center" style="border: none;">
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<!-- 3D Glass Skill Icons -->
+<!-- Glass Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,mysql,git,github,gcp,vercel,heroku&theme=dark" />
@@ -88,7 +88,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<!-- ===================== PROJECTS & DEPLOYMENTS ===================== -->
+<!-- PROJECTS & DEPLOYMENTS  -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" /> <code>Production Applications</code></h2>
 
 <!-- Fully Static High-Tech Badges (No Vercel API limits!) -->
@@ -98,6 +98,10 @@
   </a>
   <br><br>
   <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Behavior_Intelligence_AI-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+  </a>
+  <br><br>
+   <a href="https://exam-anxiety-detector-su.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE_SYSTEM-Behavior_Intelligence_AI-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
   </a>
   <br><br>
