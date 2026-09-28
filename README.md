@@ -98,7 +98,7 @@
   </a>
   <br><br>
   <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/">
-    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Behavior_Intelligence_AI-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-Aadhar_Intelligence_AI-00FF9D?style=for-the-badge&logo=streamlit&logoColor=black&color=0D1117" />
   </a>
   <br><br>
    <a href="https://exam-anxiety-detector-su.streamlit.app/">
