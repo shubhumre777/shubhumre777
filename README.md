@@ -132,22 +132,16 @@
 
 <br>
 
-<!-- ===================== GITHUB METRICS & SNAKE ===================== -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="40" /> <code>GitHub Matrix</code></h2>
+## 📈 GitHub Analytics
 
-<!-- Animated Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Activity Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<div align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhumre777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  
+  <!-- Dynamic Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhumre777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhumre777&style=flat-square&color=00FF9D&label=METRIC_VIEWS" alt="Telemetry Views" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Space Invader" width="30" />
-</p>
+<div align="center">
