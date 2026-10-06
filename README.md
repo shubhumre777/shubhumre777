@@ -18,16 +18,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3C+Hi+there+%F0%9F%91%8B%2C+devs+%2F%3E;Building+Scalable+GenAI+%26+Deep+Learning+Pipelines;AI+%26+ML+Undergraduate+%7C+Open+Source+Contributor" alt="Typing Header" />
 </div>
 
-<!-- Animated Glowing Line -->
+<!-- Animated Fluid Energy Wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=00FF9D&section=footer" width="100%"/>
 </p>
 
 <!-- ===================== GEN AI TERMINAL BIO ===================== -->
 <table align="center" style="border: none;">
   <tr>
     <td width="70%" valign="center">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Brain.png" alt="Brain" width="40" /> <code>System.Initialize("Bio")</code></h2>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="40" /> <code>System.Initialize("Bio")</code></h2>
       <p>
         Undergraduate specializing in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
         Currently focused on engineering <b>generative agent workflows</b>, training <b>deep sequential networks</b>, and deploying <b>production-grade Computer Vision</b> systems for real-world impact.
@@ -83,9 +83,9 @@
   </a>
 </p>
 
-<!-- Animated Glowing Line -->
+<!-- Animated Neural Node Line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=50&color=00FF9D&center=true&vCenter=true&width=800&lines=.........................................." alt="Dot Line" />
 </p>
 
 <!-- PROJECTS & DEPLOYMENTS  -->
@@ -110,7 +110,10 @@
   </a>
 </p>
 
-<br>
+<!-- Terminal Scanline Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=10&color=00FF9D&center=true&vCenter=true&width=800&lines=-----------------------------------------" alt="Dashed Line" />
+</p>
 
 <!-- ===================== LINKEDIN PROFESSIONAL NETWORK ===================== -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" /> <code>Professional Network</code></h2>
@@ -118,7 +121,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Briefcase.png" alt="Briefcase" width="70" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="70" />
       <h3 align="center">Let's build the future of AI together.</h3>
       <p align="center"><i>I am always open to discussing GenAI research, Machine Learning opportunities, and open-source collaborations.</i></p>
       <p align="center">
@@ -145,3 +148,10 @@
 <br>
 
 <div align="center">
+  <!-- Animated Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Activity Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
