@@ -1,43 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="380" viewBox="0 0 1500 380" role="img" aria-labelledby="title desc">
-  <title id="title">Shubh Umre — Applied AI, Machine Learning and Generative AI</title>
-  <desc id="desc">A dark technology-inspired profile banner with the name Shubh Umre and focus areas in AI and machine learning, generative AI, agentic AI and computer vision.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111f"/>
-      <stop offset="52%" stop-color="#0d1d2b"/>
-      <stop offset="100%" stop-color="#10162e"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#67e8f9"/>
-      <stop offset="50%" stop-color="#34d399"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="light">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity=".24"/>
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1500" height="380" rx="26" fill="url(#bg)"/>
-  <ellipse cx="760" cy="150" rx="620" ry="260" fill="url(#light)"/>
-  <g opacity=".18" stroke="#7dd3fc" stroke-width="1">
-    <path d="M80 70H1420M80 310H1420"/>
-    <path d="M210 25V355M1290 25V355"/>
-  </g>
-  <g fill="none" stroke="url(#accent)" stroke-opacity=".6" stroke-width="2">
-    <path d="M115 250L240 165L325 225L430 115"/>
-    <path d="M1390 115L1280 190L1190 145L1080 250"/>
-  </g>
-  <g fill="#0b1c2b" stroke="#67e8f9" stroke-width="2" opacity=".9">
-    <circle cx="115" cy="250" r="7"/><circle cx="240" cy="165" r="7"/><circle cx="325" cy="225" r="7"/><circle cx="430" cy="115" r="7"/>
-    <circle cx="1390" cy="115" r="7"/><circle cx="1280" cy="190" r="7"/><circle cx="1190" cy="145" r="7"/><circle cx="1080" cy="250" r="7"/>
-  </g>
-  <text x="750" y="145" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" letter-spacing="5" filter="url(#glow)">SHUBH UMRE</text>
-  <rect x="510" y="177" width="480" height="3" rx="2" fill="url(#accent)"/>
-  <text x="750" y="225" text-anchor="middle" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" letter-spacing="3">AI / MACHINE LEARNING</text>
-  <text x="750" y="268" text-anchor="middle" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">GENERATIVE AI  •  AGENTIC AI  •  COMPUTER VISION</text>
-  <text x="750" y="325" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">BUILDING PRACTICAL SYSTEMS · EXPLORING OPEN SOURCE · LEARNING BY SHIPPING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="430" viewBox="0 0 1500 430" role="img" aria-labelledby="t d">
+<title id="t">Shubh Umre — Artificial Intelligence and Machine Learning</title>
+<desc id="d">Animated portfolio banner with the name Shubh Umre, AI and machine learning focus areas, glowing orbital rings, and a three-dimensional neural sphere.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b18"/><stop offset=".5" stop-color="#101b33"/><stop offset="1" stop-color="#101127"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a5f3fc"/><stop offset=".47" stop-color="#34d399"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+  <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#34d399"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="core" cx=".35" cy=".3" r=".8"><stop stop-color="#cffafe"/><stop offset=".24" stop-color="#38bdf8"/><stop offset=".58" stop-color="#2563eb"/><stop offset="1" stop-color="#111338"/></radialGradient>
+  <radialGradient id="shine"><stop stop-color="#67e8f9" stop-opacity=".25"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="20"/></filter>
+  <clipPath id="sphereClip"><circle cx="1190" cy="205" r="104"/></clipPath>
+</defs>
+<rect width="1500" height="430" rx="30" fill="url(#bg)"/>
+<ellipse cx="1180" cy="210" rx="270" ry="240" fill="url(#shine)"/>
+<g opacity=".17" stroke="#7dd3fc" stroke-width="1">
+  <path d="M40 78H1460M40 350H1460M40 150H1460M40 280H1460"/>
+  <path d="M120 25V405M340 25V405M560 25V405M780 25V405M1000 25V405M1220 25V405M1440 25V405"/>
+</g>
+<g opacity=".38" stroke="#64748b" fill="none">
+  <path d="M865 55L965 110L1020 52M1350 95L1420 155L1370 260M920 335L1010 290L1060 360"/>
+</g>
+<g>
+  <rect x="96" y="82" width="7" height="220" rx="4" fill="url(#orbit)"/>
+  <text x="138" y="139" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="5" fill="#67e8f9">AI / MACHINE LEARNING PORTFOLIO</text>
+  <text x="132" y="220" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="2" fill="url(#name)" filter="url(#glow)">SHUBH UMRE</text>
+  <rect x="140" y="249" width="510" height="3" rx="2" fill="url(#orbit)"/>
+  <text x="140" y="292" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" fill="#f8fafc">Applied AI  ·  Generative AI  ·  Agentic AI</text>
+  <text x="140" y="332" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#a5b4fc">Computer Vision  /  NLP  /  Retrieval Systems</text>
+  <text x="140" y="378" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.5" fill="#94a3b8">BUILD  •  EXPERIMENT  •  EVALUATE  •  IMPROVE</text>
+</g>
+<!-- Orbital 3D neural sphere -->
+<g filter="url(#soft)" opacity=".3"><circle cx="1190" cy="205" r="132" fill="#2563eb"/></g>
+<circle cx="1190" cy="205" r="104" fill="url(#core)" stroke="#67e8f9" stroke-opacity=".65" stroke-width="1.5"/>
+<g clip-path="url(#sphereClip)" stroke="#bae6fd" stroke-opacity=".38" fill="none">
+  <ellipse cx="1190" cy="205" rx="92" ry="35"/>
+  <ellipse cx="1190" cy="205" rx="92" ry="62"/>
+  <ellipse cx="1190" cy="205" rx="36" ry="102"/>
+  <ellipse cx="1190" cy="205" rx="67" ry="102"/>
+  <path d="M1085 205H1295M1097 165H1283M1097 245H1283"/>
+</g>
+<g fill="none" stroke="url(#orbit)" stroke-width="2.2" filter="url(#glow)">
+  <ellipse cx="1190" cy="205" rx="172" ry="72" transform="rotate(-24 1190 205)"/>
+  <ellipse cx="1190" cy="205" rx="154" ry="94" transform="rotate(48 1190 205)" stroke-opacity=".78"/>
+  <ellipse cx="1190" cy="205" rx="128" ry="58" transform="rotate(90 1190 205)" stroke-opacity=".55"/>
+</g>
+<g fill="#e0f2fe" filter="url(#glow)">
+  <circle cx="1035" cy="135" r="6"><animate attributeName="r" values="5;8;5" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1338" cy="254" r="5"><animate attributeName="r" values="4;7;4" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1210" cy="32" r="5"><animate attributeName="r" values="3;6;3" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1112" cy="358" r="4"><animate attributeName="r" values="3;6;3" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#34d399" filter="url(#glow)">
+  <circle cx="1190" cy="205" r="9"><animate attributeName="opacity" values=".7;1;.7" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#c4b5fd" opacity=".9">
+  <circle cx="1390" cy="78" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1010" cy="295" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1335" cy="355" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.3s" repeatCount="indefinite"/></circle>
+</g>
 </svg>
