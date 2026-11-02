@@ -55,6 +55,8 @@ My current focus is on:
 
 <div align="center">
   <img src="assets/neural-network.svg" width="78%" alt="Neural network illustration representing connected AI systems"/>
+  <br/>
+  <img src="assets/ai-engineering-map.svg" width="100%" alt="Animated conceptual AI engineering map connecting machine learning, computer vision, NLP, RAG, agents and applications"/>
 </div>
 
 ---
@@ -117,20 +119,21 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>01 · NEXUS RAG</h3>
 <p><b>HYBRID RETRIEVAL · GENERATIVE AI</b></p>
-<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://raw.githubusercontent.com/shubhumre777/nexus-rag/main/assets/hero.svg" width="100%" alt="NEXUS RAG project banner"/></a></p>
+<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/nexus-rag.svg" width="100%" alt="NEXUS RAG — profile-only project banner"/></a></p>
 <p>A document-grounded question-answering application. Upload PDF, TXT, DOCX or CSV files and ask questions in natural language. Combines Qwen3 embeddings and FAISS semantic search with BM25 keyword retrieval through LangChain's EnsembleRetriever.</p>
 <p>
 <img src="https://img.shields.io/badge/Qwen3-Embeddings-0EA5E9?style=flat-square" alt="Qwen3"/>
 <img src="https://img.shields.io/badge/FAISS%20%2B%20BM25-Hybrid%20Search-8B5CF6?style=flat-square" alt="Hybrid search"/>
 <img src="https://img.shields.io/badge/Groq%20%2B%20Gemini-LLMs-10B981?style=flat-square" alt="LLM providers"/>
 </p>
-<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS RAG repository"/></a></p>
+<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://img.shields.io/badge/SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS RAG repository"/></a> <a href="https://nexus-rag-subh-umre.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20APP-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="NEXUS RAG live app"/></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>02 · Exam Anxiety & Proctoring AI</h3>
 <p><b>COMPUTER VISION · BEHAVIORAL ANALYTICS</b></p>
+<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/exam-anxiety-ai.svg" width="100%" alt="Exam Anxiety AI — profile-only project banner"/></p>
 <p>An experimental system that analyzes examination video for face movement, centroid-based motion, fidgeting signals, facial-expression signals and temporal patterns. These signals are combined into an experimental Anxiety Index (0–100).</p>
 <p>
 <img src="https://img.shields.io/badge/YOLOv8-Face%20Detection-F97316?style=flat-square" alt="YOLOv8"/>
@@ -147,6 +150,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>03 · Aadhaar Biometric Behaviour Intelligence</h3>
 <p><b>UNSUPERVISED ML · DATA INTELLIGENCE</b></p>
+<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/aadhaar-intelligence.svg" width="100%" alt="Aadhaar Behaviour Intelligence — profile-only project banner"/></p>
 <p>Uses UIDAI demographic and biometric update datasets to study district-level and temporal patterns. The workflow includes data cleaning, monthly aggregation, feature engineering and Isolation Forest-based anomaly detection, with risk views in a Streamlit dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/Isolation%20Forest-Anomaly%20Detection-0D9488?style=flat-square" alt="Isolation Forest"/>
@@ -160,6 +164,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>04 · Spam Message Classifier</h3>
 <p><b>NATURAL LANGUAGE PROCESSING · CLASSIFICATION</b></p>
+<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/spam-classifier.svg" width="100%" alt="Spam Message Classifier — profile-only project banner"/></p>
 <p>A text-classification web app using NLTK preprocessing, TF-IDF feature extraction and a Multinomial Naive Bayes classifier. The project README documents the SMS Spam Collection dataset and a Streamlit prediction interface.</p>
 <p>
 <img src="https://img.shields.io/badge/NLTK-Text%20Preprocessing-84CC16?style=flat-square" alt="NLTK"/>
@@ -175,6 +180,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>05 · Movie Recommendation System</h3>
 <p><b>RECOMMENDER SYSTEMS · NLP</b></p>
+<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/movie-recommender.svg" width="100%" alt="Movie Recommendation System — profile-only project banner"/></p>
 <p>A content-based recommender that converts movie metadata into TF-IDF vectors and uses cosine similarity to find similar movies. The Streamlit interface also uses the TMDB API to retrieve movie posters.</p>
 <p>
 <img src="https://img.shields.io/badge/TF--IDF-Vectorization-0EA5E9?style=flat-square" alt="TF-IDF"/>
@@ -188,6 +194,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>06 · ML Tech Stack Cheatsheets</h3>
 <p><b>VISUAL TECHNICAL RESOURCE · AI / ML</b></p>
+<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/ml-cheatsheets.svg" width="100%" alt="ML Tech Stack Cheatsheets — profile-only project banner"/></p>
 <p>A collection of visual reference sheets covering Python, ML libraries, deep learning, computer vision, NLP, GenAI, RAG, embeddings, vector databases, LangChain, agents, LLM evaluation, fine-tuning, LoRA and MLOps.</p>
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-Reference%20Sheets-0D9488?style=flat-square" alt="Machine Learning"/>
@@ -205,6 +212,8 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 ## 🌐 Live Applications
 
 <p align="center">
+<a href="https://nexus-rag-subh-umre.streamlit.app/"><img src="https://img.shields.io/badge/NEXUS%20RAG-LIVE%20APPLICATION-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open NEXUS RAG live application"/></a>
+<br/>
 <a href="https://exam-anxiety-detector-su.streamlit.app/"><img src="https://img.shields.io/badge/EXAM%20ANXIETY%20AI-OPEN%20APP-0D9488?style=for-the-badge&logo=streamlit&logoColor=white" alt="Exam Anxiety application"/></a>
 <a href="https://aadhaar-behavior-intelligence-z6cfp99ncoissjukvbr4mh.streamlit.app/"><img src="https://img.shields.io/badge/AADHAAR%20INTELLIGENCE-OPEN%20APP-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Aadhaar application"/></a>
 <br/>
@@ -213,6 +222,12 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-06-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Six featured projects"/>
+  <img src="https://img.shields.io/badge/FOCUS-APPLIED%20AI%20%2F%20GENAI%20%2F%20AGENTIC-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Focus areas"/>
+  <br/><br/>
+</div>
 
 ## 📊 GitHub Analytics
 
