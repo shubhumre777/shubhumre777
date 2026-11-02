@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="230" viewBox="0 0 1400 230" role="img" aria-labelledby="title desc">
-<title id="title">NEXUS RAG — Hybrid Retrieval · Document Q&A · Generative AI</title>
+<title id="title">NEXUS RAG — Hybrid Retrieval · Document Q&amp;A · Generative AI</title>
 <desc id="desc">A custom animated project banner for the Shubh Umre GitHub profile README.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f1c"/><stop offset=".55" stop-color="#111c31"/><stop offset="1" stop-color="#17152d"/></linearGradient>
@@ -13,7 +13,7 @@
 <rect x="52" y="47" width="6" height="136" rx="3" fill="url(#accent)"/>
 <text x="88" y="76" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#22d3ee">GENERATIVE AI / RAG</text>
 <text x="88" y="128" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#f8fafc">NEXUS RAG</text>
-<text x="90" y="163" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#cbd5e1">Hybrid Retrieval · Document Q&A · Generative AI</text>
+<text x="90" y="163" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#cbd5e1">Hybrid Retrieval · Document Q&amp;A · Generative AI</text>
 <rect x="90" y="185" width="320" height="3" rx="2" fill="url(#accent)"/>
 <g opacity=".65" fill="none" stroke="#34d399" stroke-width="2">
 <circle cx="790" cy="50" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
