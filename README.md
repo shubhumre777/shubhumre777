@@ -84,6 +84,8 @@ My current focus is on:
 ### Generative AI & Retrieval
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-0F766E?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/ReAct-Reasoning%20%2B%20Tools-7C3AED?style=for-the-badge" alt="ReAct"/>
 <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00A896?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
@@ -114,7 +116,8 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 <td width="50%" valign="top">
 
 <h3>01 · NEXUS RAG</h3>
-<p><b><font color="#22D3EE">HYBRID RETRIEVAL · GENERATIVE AI</font></b></p>
+<p><b>HYBRID RETRIEVAL · GENERATIVE AI</b></p>
+<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://raw.githubusercontent.com/shubhumre777/nexus-rag/main/assets/hero.svg" width="100%" alt="NEXUS RAG project banner"/></a></p>
 <p>A document-grounded question-answering application. Upload PDF, TXT, DOCX or CSV files and ask questions in natural language. Combines Qwen3 embeddings and FAISS semantic search with BM25 keyword retrieval through LangChain's EnsembleRetriever.</p>
 <p>
 <img src="https://img.shields.io/badge/Qwen3-Embeddings-0EA5E9?style=flat-square" alt="Qwen3"/>
