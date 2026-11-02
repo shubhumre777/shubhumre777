@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="230" viewBox="0 0 1400 230" role="img" aria-labelledby="title desc">
+<title id="title">Movie Recommendation System — Content-Based Filtering · TF-IDF · Cosine Similarity</title>
+<desc id="desc">A custom animated project banner for the Shubh Umre GitHub profile README.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f1c"/><stop offset=".55" stop-color="#111c31"/><stop offset="1" stop-color="#17152d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fb7185"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#fb7185" stop-opacity=".23"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="230" rx="24" fill="url(#bg)"/>
+<ellipse cx="1115" cy="108" rx="250" ry="170" fill="url(#halo)"/>
+<g opacity=".15" stroke="#fb7185" fill="none"><path d="M25 42H1375M25 188H1375"/><path d="M830 0V230M1330 0V230"/></g>
+<rect x="52" y="47" width="6" height="136" rx="3" fill="url(#accent)"/>
+<text x="88" y="76" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#fb7185">RECOMMENDER SYSTEMS</text>
+<text x="88" y="128" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#f8fafc">Movie Recommendation System</text>
+<text x="90" y="163" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#cbd5e1">Content-Based Filtering · TF-IDF · Cosine Similarity</text>
+<rect x="90" y="185" width="320" height="3" rx="2" fill="url(#accent)"/>
+<g opacity=".65" fill="none" stroke="#818cf8" stroke-width="2">
+<circle cx="790" cy="50" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="890" cy="185" r="4"><animate attributeName="r" values="3;8;3" dur="3s" repeatCount="indefinite"/></circle>
+<path d="M790 50L860 92L890 185" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="0;52" dur="5s" repeatCount="indefinite"/></path>
+</g>
+
+      <g transform="translate(1115 108)">
+        <path d="M0 -78L20 -16L83 0L20 17L0 78L-20 17L-83 0L-20 -16Z" fill="#28182e" stroke="#fb7185" stroke-width="2"/>
+        <circle r="31" fill="#3b1b3f" stroke="#818cf8" stroke-width="2"/>
+        <path d="M-8 -11L14 0L-8 12Z" fill="#818cf8"/>
+        <circle cx="-92" cy="-52" r="10" fill="#fb7185"/><circle cx="92" cy="50" r="10" fill="#818cf8"/>
+        <path d="M-80 -48L-42 -25M80 46L42 25" stroke="#fb7185" stroke-width="2" stroke-dasharray="4 5"/>
+      </g>
+<g fill="#818cf8" filter="url(#glow)"><circle cx="1310" cy="28" r="4"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle><circle cx="1350" cy="204" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle></g>
+</svg>
