@@ -16,6 +16,10 @@
 
 <br/><br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=67E8F9&center=true&vCenter=true&width=740&lines=Applied+AI+%2F+Machine+Learning;Generative+AI+%2F+RAG+Systems;Agentic+AI+%2F+Tool+Orchestration;Building+Practical+AI+Applications" alt="Animated focus line: Applied AI, Generative AI, Agentic AI"/>
+</p>
+
 <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0EA5E9?style=flat-square&labelColor=0B1220" alt="Artificial Intelligence"/>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-22C55E?style=flat-square&labelColor=0B1220" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-A78BFA?style=flat-square&labelColor=0B1220" alt="Generative AI"/>
@@ -54,10 +58,33 @@ My current focus is on:
 </table>
 
 <div align="center">
-  <img src="assets/neural-network.svg" width="78%" alt="Neural network illustration representing connected AI systems"/>
-  <br/>
-  <img src="assets/ai-engineering-map.svg" width="100%" alt="Animated conceptual AI engineering map connecting machine learning, computer vision, NLP, RAG, agents and applications"/>
+  <img src="./assets/ai-orbit.svg" width="100%" alt="3D-style AI orbit illustration connecting Applied AI, Generative AI and Agentic AI"/>
+  <sub>APPLIED AI &nbsp; · &nbsp; GENERATIVE AI &nbsp; · &nbsp; AGENTIC AI</sub>
 </div>
+
+### AI Engineering Map
+
+The map below is rendered directly by GitHub as a Mermaid diagram, rather than relying on an externally embedded SVG.
+
+```mermaid
+flowchart LR
+    A["🧠 Applied AI / ML"] --> B["Data & Model Development"]
+    C["✦ Generative AI"] --> D["LLMs · Embeddings · RAG"]
+    E["⚡ Agentic AI"] --> F["Tools · Memory · Workflows"]
+    B --> G(("AI Applications"))
+    D --> G
+    F --> G
+    G --> H["Deployment & Evaluation"]
+
+    classDef applied fill:#083344,stroke:#22d3ee,color:#cffafe,stroke-width:2px
+    classDef gen fill:#2e1065,stroke:#c4b5fd,color:#ede9fe,stroke-width:2px
+    classDef agent fill:#3b1d0d,stroke:#fb923c,color:#ffedd5,stroke-width:2px
+    classDef core fill:#102b3c,stroke:#34d399,color:#d1fae5,stroke-width:2px
+    class A,B applied
+    class C,D gen
+    class E,F agent
+    class G,H core
+```
 
 ---
 
@@ -119,7 +146,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>01 · NEXUS RAG</h3>
 <p><b>HYBRID RETRIEVAL · GENERATIVE AI</b></p>
-<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/nexus-rag.svg" width="100%" alt="NEXUS RAG — profile-only project banner"/></a></p>
+<p><a href="https://github.com/shubhumre777/nexus-rag"><img src="./assets/projects/nexus-rag.svg" width="100%" alt="NEXUS RAG — profile-only project banner"/></a></p>
 <p>A document-grounded question-answering application. Upload PDF, TXT, DOCX or CSV files and ask questions in natural language. Combines Qwen3 embeddings and FAISS semantic search with BM25 keyword retrieval through LangChain's EnsembleRetriever.</p>
 <p>
 <img src="https://img.shields.io/badge/Qwen3-Embeddings-0EA5E9?style=flat-square" alt="Qwen3"/>
@@ -133,7 +160,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>02 · Exam Anxiety & Proctoring AI</h3>
 <p><b>COMPUTER VISION · BEHAVIORAL ANALYTICS</b></p>
-<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/exam-anxiety-ai.svg" width="100%" alt="Exam Anxiety AI — profile-only project banner"/></p>
+<p><img src="./assets/projects/exam-anxiety-ai.svg" width="100%" alt="Exam Anxiety AI — profile-only project banner"/></p>
 <p>An experimental system that analyzes examination video for face movement, centroid-based motion, fidgeting signals, facial-expression signals and temporal patterns. These signals are combined into an experimental Anxiety Index (0–100).</p>
 <p>
 <img src="https://img.shields.io/badge/YOLOv8-Face%20Detection-F97316?style=flat-square" alt="YOLOv8"/>
@@ -150,7 +177,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>03 · Aadhaar Biometric Behaviour Intelligence</h3>
 <p><b>UNSUPERVISED ML · DATA INTELLIGENCE</b></p>
-<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/aadhaar-intelligence.svg" width="100%" alt="Aadhaar Behaviour Intelligence — profile-only project banner"/></p>
+<p><img src="./assets/projects/aadhaar-intelligence.svg" width="100%" alt="Aadhaar Behaviour Intelligence — profile-only project banner"/></p>
 <p>Uses UIDAI demographic and biometric update datasets to study district-level and temporal patterns. The workflow includes data cleaning, monthly aggregation, feature engineering and Isolation Forest-based anomaly detection, with risk views in a Streamlit dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/Isolation%20Forest-Anomaly%20Detection-0D9488?style=flat-square" alt="Isolation Forest"/>
@@ -164,7 +191,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>04 · Spam Message Classifier</h3>
 <p><b>NATURAL LANGUAGE PROCESSING · CLASSIFICATION</b></p>
-<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/spam-classifier.svg" width="100%" alt="Spam Message Classifier — profile-only project banner"/></p>
+<p><img src="./assets/projects/spam-classifier.svg" width="100%" alt="Spam Message Classifier — profile-only project banner"/></p>
 <p>A text-classification web app using NLTK preprocessing, TF-IDF feature extraction and a Multinomial Naive Bayes classifier. The project README documents the SMS Spam Collection dataset and a Streamlit prediction interface.</p>
 <p>
 <img src="https://img.shields.io/badge/NLTK-Text%20Preprocessing-84CC16?style=flat-square" alt="NLTK"/>
@@ -180,7 +207,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>05 · Movie Recommendation System</h3>
 <p><b>RECOMMENDER SYSTEMS · NLP</b></p>
-<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/movie-recommender.svg" width="100%" alt="Movie Recommendation System — profile-only project banner"/></p>
+<p><img src="./assets/projects/movie-recommender.svg" width="100%" alt="Movie Recommendation System — profile-only project banner"/></p>
 <p>A content-based recommender that converts movie metadata into TF-IDF vectors and uses cosine similarity to find similar movies. The Streamlit interface also uses the TMDB API to retrieve movie posters.</p>
 <p>
 <img src="https://img.shields.io/badge/TF--IDF-Vectorization-0EA5E9?style=flat-square" alt="TF-IDF"/>
@@ -194,7 +221,7 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <h3>06 · ML Tech Stack Cheatsheets</h3>
 <p><b>VISUAL TECHNICAL RESOURCE · AI / ML</b></p>
-<p><img src="https://raw.githubusercontent.com/shubhumre777/shubhumre777/main/assets/projects/ml-cheatsheets.svg" width="100%" alt="ML Tech Stack Cheatsheets — profile-only project banner"/></p>
+<p><img src="./assets/projects/ml-cheatsheets.svg" width="100%" alt="ML Tech Stack Cheatsheets — profile-only project banner"/></p>
 <p>A collection of visual reference sheets covering Python, ML libraries, deep learning, computer vision, NLP, GenAI, RAG, embeddings, vector databases, LangChain, agents, LLM evaluation, fine-tuning, LoRA and MLOps.</p>
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-Reference%20Sheets-0D9488?style=flat-square" alt="Machine Learning"/>
@@ -234,6 +261,10 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 <div align="center">
 
 <img src="github-metrics.svg" width="100%" alt="Automatically generated GitHub analytics dashboard"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhumre777&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 <br/>
 
