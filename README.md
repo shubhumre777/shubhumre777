@@ -58,6 +58,10 @@ My current focus is on:
 </table>
 
 <div align="center">
+  <img src="./assets/animated-ai-orb.gif" width="112" alt="Animated 3D-style AI orb rotating around an orbital path"/>
+
+  <br/>
+
   <img src="./assets/ai-orbit.svg" width="100%" alt="3D-style AI orbit illustration connecting Applied AI, Generative AI and Agentic AI"/>
   <sub>APPLIED AI &nbsp; · &nbsp; GENERATIVE AI &nbsp; · &nbsp; AGENTIC AI</sub>
 </div>
@@ -85,6 +89,10 @@ flowchart LR
     class E,F agent
     class G,H core
 ```
+
+<div align="center">
+  <img src="./assets/ai-engineering-map.svg" width="100%" alt="AI engineering map connecting Applied AI, Computer Vision, NLP, RAG, agents and applications"/>
+</div>
 
 ---
 
