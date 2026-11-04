@@ -62,8 +62,6 @@ My current focus is on:
 
   <br/>
 
-  <img src="./assets/ai-orbit.svg" width="100%" alt="3D-style AI orbit illustration connecting Applied AI, Generative AI and Agentic AI"/>
-  <sub>APPLIED AI &nbsp; · &nbsp; GENERATIVE AI &nbsp; · &nbsp; AGENTIC AI</sub>
 </div>
 
 ### AI Engineering Map
@@ -270,9 +268,6 @@ A selection of my AI/ML applications and technical resources. Open each reposito
 
 <img src="github-metrics.svg" width="100%" alt="Automatically generated GitHub analytics dashboard"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhumre777&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 <br/>
 
