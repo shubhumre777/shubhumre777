@@ -28,7 +28,19 @@ jobs:
             echo "::error::Repository Actions secret GIT_TOKEN is missing. Add a valid GitHub personal access token in Settings > Secrets and variables > Actions."
             exit 1
           fi
-          echo "GIT_TOKEN is configured; token contents are not printed."
+
+          # Verify authentication before the Metrics action starts its longer retry loop.
+          HTTP_STATUS="$(curl --silent --show-error --output /dev/null --write-out "%{http_code}" \
+            --header "Authorization: Bearer ${METRICS_TOKEN}" \
+            --header "Accept: application/vnd.github+json" \
+            https://api.github.com/user)"
+
+          if [[ "${HTTP_STATUS}" != "200" ]]; then
+            echo "::error::GitHub rejected GIT_TOKEN (HTTP ${HTTP_STATUS}). Replace the repository secret with a valid personal access token, then rerun this workflow."
+            exit 1
+          fi
+
+          echo "GitHub accepted GIT_TOKEN. Token contents were not printed."
 
       - name: Generate profile analytics
         uses: lowlighter/metrics@latest
