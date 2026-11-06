@@ -5,17 +5,40 @@ on:
     - cron: "20 1 * * *"
   workflow_dispatch:
 
+# Used by lowlighter/metrics to write the generated SVG back to main.
 permissions:
   contents: write
+
+# Avoid overlapping scheduled and manually triggered metrics generations.
+concurrency:
+  group: github-portfolio-metrics
+  cancel-in-progress: false
 
 jobs:
   profile-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
+      - name: Validate GitHub personal access token
+        shell: bash
+        env:
+          METRICS_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: |
+          if [[ -z "${METRICS_TOKEN}" ]]; then
+            echo "::error::Repository Actions secret GIT_TOKEN is missing. Add a valid GitHub personal access token in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          echo "GIT_TOKEN is configured; token contents are not printed."
+
       - name: Generate profile analytics
         uses: lowlighter/metrics@latest
         with:
+          # PAT is required for profile/user data; repository-scoped GITHUB_TOKEN is not sufficient.
           token: ${{ secrets.GIT_TOKEN }}
+
+          # Use the workflow's scoped token only for committing the generated SVG.
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
           user: shubhumre777
           filename: github-metrics.svg
           output_action: commit
