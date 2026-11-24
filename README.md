@@ -39,20 +39,25 @@ My current focus is on:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3 align="center">🧠 Applied AI / ML</h3>
 <p align="center">Machine Learning<br/>Deep Learning<br/>NLP<br/>Computer Vision<br/>Anomaly Detection<br/>Recommendation Systems</p>
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3 align="center">✦ Generative AI</h3>
 <p align="center">LLM Applications<br/>Retrieval-Augmented Generation<br/>Embeddings<br/>Vector Search<br/>Hybrid Retrieval<br/>Prompt Engineering</p>
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3 align="center">⚡ Agentic AI</h3>
 <p align="center">Agent Workflows<br/>LangChain / LangGraph<br/>Tool Orchestration<br/>ReAct Patterns<br/>Conversational Memory<br/>Multi-step Reasoning</p>
+</td>
+<td width="25%" valign="top">
+
+<h3 align="center">⚙️ AI Engineering</h3>
+<p align="center">ML Pipelines<br/>Model Deployment<br/>REST API Integration<br/>Streamlit Applications<br/>Model Evaluation<br/>RAGAS</p>
 </td>
 </tr>
 </table>
